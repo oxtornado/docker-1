@@ -1,5 +1,8 @@
 # Proyecto Flask con Docker
 
+![Screenshot from 2025-05-07 14 37 56](https://github.com/user-attachments/assets/139c556a-63e7-4003-87f7-1f75dedee0bd)
+
+
 Este proyecto contiene una aplicación Flask que se ejecuta dentro de un contenedor Docker. A continuación, se describen los pasos para configurar y ejecutar el proyecto.
 
 ## Pasos para ejecutar el proyecto
